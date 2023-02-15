@@ -5,7 +5,9 @@ In this Power BI dashboard, I wanted to work on a dataset that wasn't extensivel
 
 After lots of data cleaning and data wrangling, I transformed data into its current state.
 
-I incorporated drill-down, drill-through functionalities and used custom measures extensively to enable viewers that are particularly interested to engage in the details.
+I incorporated drill-down, drill-through functionalities and used custom measures extensively to enable viewers that are particularly interested to engage in the details. 
+
+Please right click the relevant district on the graph in the third page and click drill-down to see details.
 
 ## Related - Full Experience on the Web
 
